@@ -69,8 +69,8 @@ This app is designed to run offline on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/life-tracker.git](https://github.com/yourusername/life-tracker.git)
-    cd life-tracker
+    git clone [https://github.com/urDrek0/mytodolist-weapps.git](https://github.com/urDrek0/mytodolist-weapps.git)
+    cd mytodolist-weapps
     ```
 
 2.  **Install Dependencies**
@@ -107,8 +107,8 @@ life-tracker/
 ## 📢 Offline and Private Usage
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/life-tracker.git](https://github.com/yourusername/life-tracker.git)
-    cd life-tracker
+    git clone [https://github.com/urDrek0/mytodolist-weapps.git](https://github.com/urDrek0/mytodolist-weapps.git)
+    cd mytodolist-weapps
     ```
 
 2.  **Install Dependencies**
